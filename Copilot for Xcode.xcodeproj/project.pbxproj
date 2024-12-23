@@ -187,8 +187,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		3ABBEA282C8B9FE100C61D61 /* copilot-language-server */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; name = "copilot-language-server"; path = "Server/node_modules/@github/copilot-language-server/native/darwin-x64/copilot-language-server"; sourceTree = SOURCE_ROOT; };
-		3ABBEA2A2C8BA00300C61D61 /* copilot-language-server-arm64 */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; name = "copilot-language-server-arm64"; path = "Server/node_modules/@github/copilot-language-server/native/darwin-arm64/copilot-language-server-arm64"; sourceTree = SOURCE_ROOT; };
+		3ABBEA282C8B9FE100C61D61 /* copilot-language-server */ = {isa = PBXFileReference; explicitFileType = sourcecode.javascript; fileEncoding = 30; lineEnding = 1; name = "copilot-language-server"; path = "Server/node_modules/@github/copilot-language-server/native/darwin-x64/copilot-language-server"; sourceTree = SOURCE_ROOT; };
+		3ABBEA2A2C8BA00300C61D61 /* copilot-language-server-arm64 */ = {isa = PBXFileReference; explicitFileType = sourcecode.javascript; fileEncoding = 30; lineEnding = 1; name = "copilot-language-server-arm64"; path = "Server/node_modules/@github/copilot-language-server/native/darwin-arm64/copilot-language-server-arm64"; sourceTree = SOURCE_ROOT; };
 		424ACA202CA4697200FA20F2 /* Credits.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = Credits.rtf; sourceTree = "<group>"; };
 		427C63272C6E868B000E557C /* OpenSettingsCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenSettingsCommand.swift; sourceTree = "<group>"; };
 		6E17668C2D18EE4E0033C49E /* EditorExtensionDebug.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EditorExtensionDebug.entitlements; sourceTree = "<group>"; };
